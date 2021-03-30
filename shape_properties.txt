@@ -1,0 +1,2 @@
+square: Length 5.0, Area 25.0, Boundary 20.0, Cross Length 7.0710678118654755
+circle: Length 1.0, Area 3.141592653589793, Boundary 6.283185307179586, Cross Length 2.0
